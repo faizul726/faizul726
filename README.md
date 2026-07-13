@@ -2,6 +2,15 @@
 
 I like making small contributions to the Minecraft community.
 
+**You can find my Minecraft Bedrock addons here**
+* https://mcpedl.com/user/faizul726
+* https://www.curseforge.com/members/faizul726/projects
+
+### Relevant Discord servers
+* https://faizul726.github.io/yss-discord
+* https://faizul726.github.io/newb-discord
+* https://faizul726.github.io/bedrockgraphics-discord
+
 ### My notable creations
 * [Matject](https://github.com/faizul726/matject) : A smart TUI script to replace .material.bin files of Minecraft Bedrock Edition (GDK builds partially supported)
 * [OreUI Utilities](https://github.com/faizul726/oreui-utilities) : Some unhides some hidden Minecraft Bedrock features, I only do packaging and maintenance
